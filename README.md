@@ -1,4 +1,4 @@
-<p align="center">
+      #Deactivate me.com#Stop<p align="center">
   <a href="https://github.com/ds4sd/docling">
     <img loading="lazy" alt="Docling" src="https://github.com/DS4SD/docling/raw/main/docs/assets/docling_processing.png" width="100%"/>
   </a>
